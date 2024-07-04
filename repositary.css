@@ -1,0 +1,9 @@
+.header-area h1{
+    text-align: center;
+    color: white;
+    background-color: orangered;
+}
+.header-area p{
+    color: orange;
+    background-color: cyan;
+}
